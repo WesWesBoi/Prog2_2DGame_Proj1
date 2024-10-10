@@ -65,4 +65,6 @@ public class gameManager : MonoBehaviour
         Instantiate(myCollectible, targetPos, Quaternion.identity);
         Debug.Log("collectible spawn");
     }
+
 }
+
